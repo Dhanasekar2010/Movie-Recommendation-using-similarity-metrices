@@ -2,7 +2,7 @@
 
 🎬 Movie Recommendation System
 
-This project is a content-based movie recommendation system implemented in a Jupyter Notebook.
+This project is a content-based movie recommendation system implemented in a Google Colab.
 It leverages similarity measures such as cosine similarity and Euclidean distance to suggest movies most similar to a given title.
 
 🚀 Features
